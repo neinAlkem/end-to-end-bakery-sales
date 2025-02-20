@@ -1,0 +1,7 @@
+kaggle
+zipfile
+ipykernel
+pandas
+os
+sqlalchemy 
+psycopg2
