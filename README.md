@@ -1,6 +1,6 @@
 # END TO END BAKERY SALES ANALYSIS PROJECT
 
-![ProjectArchitecure](asset\Architecure.png)
+![ProjectArchitecure](asset/Architecure.png)
 This end-to-end data engineering project extracts a dataset from Kaggle via API, processes it for cleanliness, and loads it into PostgreSQL using SQLAlchemy for query-level analysis. Optimized with schema design and indexing, the data is then connected to Power BI for interactive visualizations and insights. 
 
 ## Project Goal
@@ -150,5 +150,5 @@ LIMIT 3;
 
 ## Visualization Report
 
-![2019Report](asset\2019Report.png)
-![2019Report](asset\2020Report.png)
+![2019Report](asset/2019Report.png)
+![2019Report](asset/2020Report.png)
